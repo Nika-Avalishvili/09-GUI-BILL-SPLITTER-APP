@@ -7,10 +7,6 @@ bill_amount = 0.00
 bill_tip = 0.00
 bill_people = 1.00
 
-# ბექი
-
-
-
 def selected_tip(rate):
     global bill_tip, bill_amount, bill_people
 
